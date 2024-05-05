@@ -88,7 +88,7 @@ public class Main {
         }
 
         System.out.println("*****Obrigado por ter utilizado o nosso conversor de moedas :D *****");
-
+        scanner.close();
 
     }
 }
